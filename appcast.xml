@@ -8,7 +8,7 @@
             <sparkle:version>1.0.6</sparkle:version>
             <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Vonka-AI/vonka-releases/releases/download/v1.0.6/Vonka AI.dmg" length="6203086" type="application/octet-stream" sparkle:edSignature="iO425swE2goonlsWXINzm4EokUvbp2f1ZYSIEIsCSROAGPMk6BocktC/WKqKpP8C1cIn+R8QvZiZoTrsz9/IDQ=="/>
+            <enclosure url="https://github.com/Vonka-AI/vonka-releases/releases/download/v1.0.6/VONKA.dmg" length="6205242" type="application/octet-stream" sparkle:edSignature="W4lGjnYsYJ1fpf8AKU626jRhC3bOFp06QMR3pc6Qi/+GnfeIXXvN1JWRqBAmBx7d55t8T41Ujcz3IW6rycweBw=="/>
         </item>
         <item>
             <title>1.0.5</title>
@@ -16,7 +16,7 @@
             <sparkle:version>1.0.5</sparkle:version>
             <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Vonka-AI/vonka-releases/releases/download/v1.0.6/Vonka AI.dmg" length="6205053" type="application/octet-stream" sparkle:edSignature="KI6Wd9HFp77//Jz7b1Tva0bRwKHg0YKL5sOITnVQX5Yxykp2Rn9P7egxBTfQahIAkidRcfWQpywLzf8iekhLBQ=="/>
+            <enclosure url="https://github.com/Vonka-AI/vonka-releases/releases/download/v1.0.6/VONKA.dmg" length="6205053" type="application/octet-stream" sparkle:edSignature="KI6Wd9HFp77//Jz7b1Tva0bRwKHg0YKL5sOITnVQX5Yxykp2Rn9P7egxBTfQahIAkidRcfWQpywLzf8iekhLBQ=="/>
         </item>
         <item>
             <title>1.0.3</title>
@@ -24,7 +24,7 @@
             <sparkle:version>1.0.4</sparkle:version>
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Vonka-AI/vonka-releases/releases/download/v1.0.6/Vonka AI.dmg" length="6202818" type="application/octet-stream" sparkle:edSignature="rB/p/YoxDXf0cdp3QMESb0WJBw8+0S1U0YMM9BwJQfbLSNPwI7o+ijGLdgd0bIQcR2IUj1kcvZlRgdob4qgJCw=="/>
+            <enclosure url="https://github.com/Vonka-AI/vonka-releases/releases/download/v1.0.6/VONKA.dmg" length="6202818" type="application/octet-stream" sparkle:edSignature="rB/p/YoxDXf0cdp3QMESb0WJBw8+0S1U0YMM9BwJQfbLSNPwI7o+ijGLdgd0bIQcR2IUj1kcvZlRgdob4qgJCw=="/>
         </item>
     </channel>
 </rss>
