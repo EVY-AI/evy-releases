@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Vonka AI</title>
+        <item>
+            <title>1.0.5</title>
+            <pubDate>Tue, 03 Jun 2025 13:50:04 +0100</pubDate>
+            <sparkle:version>1.0.5</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://app.vonka.ai/Vonka%20AI.dmg" length="6205053" type="application/octet-stream" sparkle:edSignature="KI6Wd9HFp77//Jz7b1Tva0bRwKHg0YKL5sOITnVQX5Yxykp2Rn9P7egxBTfQahIAkidRcfWQpywLzf8iekhLBQ=="/>
+        </item>
+        <item>
+            <title>1.0.3</title>
+            <pubDate>Tue, 03 Jun 2025 13:39:26 +0100</pubDate>
+            <sparkle:version>1.0.4</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://app.vonka.ai/Vonka%20AI.dmg" length="6202818" type="application/octet-stream" sparkle:edSignature="rB/p/YoxDXf0cdp3QMESb0WJBw8+0S1U0YMM9BwJQfbLSNPwI7o+ijGLdgd0bIQcR2IUj1kcvZlRgdob4qgJCw=="/>
+        </item>
+        <item>
+            <title>1.0.2</title>
+            <pubDate>Tue, 03 Jun 2025 12:43:39 +0100</pubDate>
+            <sparkle:version>1.0.3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://app.vonka.ai/Vonka%20AI.dmg" length="6204679" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
