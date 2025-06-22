@@ -8,7 +8,7 @@
             <sparkle:version>1.1.0</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Vonka-AI/vonka-releases/releases/download/v1.1.0/VONKA.dmg" length="7224019" type="application/octet-stream" sparkle:edSignature="W8zhV3XjYaMbWxoYlV1/aVfIocO0ji45Hxwf8zcG9VxUbdqZkJ/q3YZue4k0UH93BHEXORMec52f4OV+dd4kCA=="/>
+            <enclosure url="https://github.com/Vonka-AI/vonka-releases/releases/download/v1.1.0/VONKA.dmg" length="7220625" type="application/octet-stream" sparkle:edSignature="BEwMwntVb0wXPEhPhDTv6jSGYno9zaSn5fPnm/yA2SMERgjeUwUPJfn3kfGMQeobeQSfCSSifAPo89moTXzzDw=="/>
         </item>
         <item>
             <title>1.0.19</title>
