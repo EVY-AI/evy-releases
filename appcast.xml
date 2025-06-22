@@ -3,6 +3,14 @@
     <channel>
         <title>VONKA</title>
         <item>
+            <title>1.0.18</title>
+            <pubDate>Sun, 22 Jun 2025 10:40:57 +0100</pubDate>
+            <sparkle:version>1.0.18</sparkle:version>
+            <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Vonka-AI/vonka-releases/releases/download/v1.0.18/VONKA.dmg" length="7212702" type="application/octet-stream" sparkle:edSignature="5CGlU1TI4xSeev4AdTJ/XnxDIq6+QHKhyfFOhgk52Iv4nbjwoDq6heTCVY2e+djqlJsuelpi/6qIZURC+EAaAQ=="/>
+        </item>
+        <item>
             <title>1.0.17</title>
             <pubDate>Tue, 17 Jun 2025 12:59:34 +0100</pubDate>
             <sparkle:version>1.0.17</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Vonka-AI/vonka-releases/releases/download/v1.0.16/VONKA.dmg" length="2376198" type="application/octet-stream" sparkle:edSignature="qs0FbZ2lvKuJZeneQW+JBKNlBf1ZW7QCkR9KTgouyeCaKSWea95Ytwahvcs/fkEMHlaXK2/6LvsxlnqqcVzTBg=="/>
-        </item>
-        <item>
-            <title>1.0.15</title>
-            <pubDate>Thu, 12 Jun 2025 18:02:36 +0100</pubDate>
-            <sparkle:version>1.0.15</sparkle:version>
-            <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Vonka-AI/vonka-releases/releases/download/v1.0.15/VONKA.dmg" length="2378175" type="application/octet-stream" sparkle:edSignature="RR+J6y+n3AR29cBYoPmHQISJWNJdmrmfMuNH60GNHvhrgdPLu2VyNXe+iQ8JmSnAPg3f5UkagJjpdwXG04xZCQ=="/>
         </item>
     </channel>
 </rss>
