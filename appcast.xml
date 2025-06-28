@@ -10,21 +10,5 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v1.1.6/EVY.dmg" length="7231496" type="application/octet-stream" sparkle:edSignature="tIv/w4jyGDyTIXUgxsC/3iVLCwL2JNVD0QqF4Q2QQphQSWq3Dr5WTn/eHipEV3sOSHVAMqD8/TTAr427nS+sDw=="/>
         </item>
-        <item>
-            <title>1.1.5</title>
-            <pubDate>Fri, 27 Jun 2025 13:44:51 +0100</pubDate>
-            <sparkle:version>1.1.5</sparkle:version>
-            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Vonka-AI/vonka-releases/releases/download/v1.1.5/VONKA.dmg" length="7229839" type="application/octet-stream" sparkle:edSignature="k99VEJRSyjxmfNKmdsHkEZTu1bn6xcL17PS+kM1Q4VVgktxEpes/yOX2i8zYAzglgD7jAq0tkXvktw/L7QHHDQ=="/>
-        </item>
-        <item>
-            <title>1.1.4</title>
-            <pubDate>Thu, 26 Jun 2025 16:20:29 +0100</pubDate>
-            <sparkle:version>1.1.4</sparkle:version>
-            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Vonka-AI/vonka-releases/releases/download/v1.1.4/VONKA.dmg" length="7231578" type="application/octet-stream" sparkle:edSignature="L+TaLAARs2BXtfh2A+UIPN6ac64Ff/RLZNMD3U7A04PypxdFSG6skWEpmDIEwyNM/tZj26U4BOf7jkqI6II1CQ=="/>
-        </item>
     </channel>
 </rss>
