@@ -3,6 +3,14 @@
     <channel>
         <title>VONKA</title>
         <item>
+            <title>1.1.8</title>
+            <pubDate>Mon, 30 Jun 2025 11:19:17 +0100</pubDate>
+            <sparkle:version>1.1.8</sparkle:version>
+            <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v1.1.8/EVY.dmg" length="7229511" type="application/octet-stream" sparkle:edSignature="f/EpVAYeXLsLNUrxUdMYQQDbHWeC3AOUmSWpCbSqYJKVbDDhkX3UAYXQht5x0jGX1Mb58VUccfBgT9/AWtrlDQ=="/>
+        </item>
+        <item>
             <title>1.1.7</title>
             <pubDate>Sat, 28 Jun 2025 14:30:29 +0100</pubDate>
             <sparkle:version>1.1.7</sparkle:version>
