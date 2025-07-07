@@ -3,6 +3,14 @@
     <channel>
         <title>VONKA</title>
         <item>
+            <title>1.2.1</title>
+            <pubDate>Mon, 07 Jul 2025 17:06:42 +0100</pubDate>
+            <sparkle:version>1.2.1</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v1.2.1/EVY.dmg" length="7272954" type="application/octet-stream" sparkle:edSignature="INTMfKgQJz55EOoa3LDb4TvnW8KS/J+Ie92kdZgmHZtG/hBltjikdopnOmbqeRPrpLSfVsfcwzX7687FBSI8AA=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Sun, 06 Jul 2025 20:44:37 +0100</pubDate>
             <sparkle:version>1.2.0</sparkle:version>
@@ -25,14 +33,6 @@
             <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v1.1.8/EVY.dmg" length="7229511" type="application/octet-stream" sparkle:edSignature="f/EpVAYeXLsLNUrxUdMYQQDbHWeC3AOUmSWpCbSqYJKVbDDhkX3UAYXQht5x0jGX1Mb58VUccfBgT9/AWtrlDQ=="/>
-        </item>
-        <item>
-            <title>1.1.7</title>
-            <pubDate>Sat, 28 Jun 2025 14:30:29 +0100</pubDate>
-            <sparkle:version>1.1.7</sparkle:version>
-            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v1.1.7/EVY.dmg" length="7233336" type="application/octet-stream" sparkle:edSignature="c5uPhUtDgh0jAfueXLdxVa4Iqf5EuylGcxv6/QYGm3A799YgeafXsKfE8qoI7nY01fHir/2W8bct2oFO3yfbCA=="/>
         </item>
     </channel>
 </rss>
