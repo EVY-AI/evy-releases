@@ -3,20 +3,31 @@
     <channel>
         <title>VONKA</title>
         <item>
+<<<<<<< Updated upstream
+=======
+            <title>1.4.5</title>
+            <pubDate>Thu, 17 Jul 2025 16:49:58 +0100</pubDate>
+            <sparkle:version>1.4.5</sparkle:version>
+            <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v1.4.5/EVY.dmg" length="9143026" type="application/octet-stream" sparkle:edSignature="8o5eVJn5DsQAFua4XL/R5L7SMB0EcAePdsR1d4/rLVNPbbZDtL6KI7tWc0buDJ7jzXKjLFduqI0p3ZnlWYM+Cw=="/>
+        </item>
+        <item>
+            <title>1.4.4</title>
+            <pubDate>Thu, 17 Jul 2025 16:27:22 +0100</pubDate>
+            <sparkle:version>1.4.4</sparkle:version>
+            <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v1.4.4/EVY.dmg" length="9142455" type="application/octet-stream" sparkle:edSignature="x+bEG+D0c+ymeJ8PKqEYTTgXxJV6T72kClV6aczW9GAvE1ofJYo4iF1rY88iPftBS+JFEdUDMd5BUyLepikpBw=="/>
+        </item>
+        <item>
+>>>>>>> Stashed changes
             <title>1.4.1</title>
             <pubDate>Thu, 17 Jul 2025 12:36:08 +0100</pubDate>
             <sparkle:version>1.4.1</sparkle:version>
             <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v1.4.1/EVY.dmg" length="3788450" type="application/octet-stream" sparkle:edSignature="hOfVWHkvkpUiKNLRRm/Tv3szCFOFAhMghAKX8bBPpuQMQju9oUstibWxXEK5L6rg1N0eF3WF9gfGzc2L0CpPCw=="/>
-        </item>
-        <item>
-            <title>1.4.0</title>
-            <pubDate>Mon, 14 Jul 2025 19:58:16 +0100</pubDate>
-            <sparkle:version>1.4.0</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v1.4.0/EVY.dmg" length="7411970" type="application/octet-stream" sparkle:edSignature="vsPlFQtBSlyOi/WSrXO1WmVFIQsobeilNYei+pd7aHQTaMMDL/weJ6woUETz3ZLIekfyAdYH5H1OXt+8cMLfBw=="/>
         </item>
         <item>
             <title>1.2.0</title>
