@@ -3,8 +3,6 @@
     <channel>
         <title>VONKA</title>
         <item>
-<<<<<<< Updated upstream
-=======
             <title>1.4.5</title>
             <pubDate>Thu, 17 Jul 2025 16:49:58 +0100</pubDate>
             <sparkle:version>1.4.5</sparkle:version>
@@ -21,7 +19,6 @@
             <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v1.4.4/EVY.dmg" length="9142455" type="application/octet-stream" sparkle:edSignature="x+bEG+D0c+ymeJ8PKqEYTTgXxJV6T72kClV6aczW9GAvE1ofJYo4iF1rY88iPftBS+JFEdUDMd5BUyLepikpBw=="/>
         </item>
         <item>
->>>>>>> Stashed changes
             <title>1.4.1</title>
             <pubDate>Thu, 17 Jul 2025 12:36:08 +0100</pubDate>
             <sparkle:version>1.4.1</sparkle:version>
