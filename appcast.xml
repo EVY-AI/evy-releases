@@ -3,6 +3,14 @@
     <channel>
         <title>EVY</title>
         <item>
+            <title>1.4.7</title>
+            <pubDate>Wed, 23 Jul 2025 12:19:51 +0100</pubDate>
+            <sparkle:version>1.4.7</sparkle:version>
+            <sparkle:shortVersionString>1.4.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v1.4.7/EVY.dmg" length="17711038" type="application/octet-stream" sparkle:edSignature="28amDgUnl3S8Wbs4ZR8x5+a1kG1V/XgSHaK/OLdLVDf09aAprdV2KYkduvAcIt7xeRwRVHFbzcE+H9QB8848CA=="/>
+        </item>
+        <item>
             <title>1.4.6</title>
             <pubDate>Tue, 22 Jul 2025 10:34:57 +0100</pubDate>
             <sparkle:version>1.4.6</sparkle:version>
