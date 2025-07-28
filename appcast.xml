@@ -3,6 +3,14 @@
     <channel>
         <title>EVY</title>
         <item>
+            <title>1.4.9</title>
+            <pubDate>Mon, 28 Jul 2025 11:34:03 +0100</pubDate>
+            <sparkle:version>1.4.9</sparkle:version>
+            <sparkle:shortVersionString>1.4.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v1.4.9/EVY.dmg" length="17969057" type="application/octet-stream" sparkle:edSignature="QMQjVEGwLpqu9fRCU4+pAV70VSfmjm8x+Wl5/lh8o437v3/60vb8QZo/ZS8j3QV5whyo8SPvifOge+RCwjbdCQ=="/>
+        </item>
+        <item>
             <title>1.4.8</title>
             <pubDate>Sat, 26 Jul 2025 09:52:10 +0100</pubDate>
             <sparkle:version>1.4.8</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.4.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v1.4.7/EVY.dmg" length="17711038" type="application/octet-stream" sparkle:edSignature="28amDgUnl3S8Wbs4ZR8x5+a1kG1V/XgSHaK/OLdLVDf09aAprdV2KYkduvAcIt7xeRwRVHFbzcE+H9QB8848CA=="/>
-        </item>
-        <item>
-            <title>1.4.6</title>
-            <pubDate>Tue, 22 Jul 2025 10:34:57 +0100</pubDate>
-            <sparkle:version>1.4.6</sparkle:version>
-            <sparkle:shortVersionString>1.4.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v1.4.6/EVY.dmg" length="17931398" type="application/octet-stream" sparkle:edSignature="SHQVQML6XGB4545iNCTBUg9WZoyTsvVUEFDCiE+/8/z3JylxMn3xGkDIkJiMp1UQNI9IM/+yv0wm7UMQRWo5CQ=="/>
         </item>
     </channel>
 </rss>
