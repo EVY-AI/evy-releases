@@ -3,6 +3,25 @@
     <channel>
         <title>EVY</title>
         <item>
+<<<<<<< Updated upstream
+=======
+            <title>2.0.6</title>
+            <pubDate>Thu, 08 Jan 2026 19:55:16 +0000</pubDate>
+            <sparkle:version>2.0.6</sparkle:version>
+            <sparkle:shortVersionString>2.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.6/EVY.dmg" length="24937191" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>2.0.0</title>
+            <pubDate>Sun, 16 Nov 2025 18:46:39 +0000</pubDate>
+            <sparkle:version>2.0.0</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.0/EVY.dmg" length="20360213" type="application/octet-stream"/>
+        </item>
+        <item>
+>>>>>>> Stashed changes
             <title>1.8.0</title>
             <pubDate>Fri, 10 Oct 2025 09:50:43 +0100</pubDate>
             <sparkle:version>1.8.0</sparkle:version>
