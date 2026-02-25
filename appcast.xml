@@ -3,6 +3,23 @@
     <channel>
         <title>EVY</title>
         <item>
+            <title>2.0.25</title>
+            <pubDate>Wed, 25 Feb 2026 15:49:59 +0000</pubDate>
+            <sparkle:version>2.0.25</sparkle:version>
+            <sparkle:shortVersionString>2.0.25</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's New</h2>
+<ul>
+  <li><strong>Hide from Dock</strong> - Restored the option to hide EVY from the macOS Dock, giving you control over your Dock visibility preferences</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+  <li>Fixed an issue where the app could freeze when stopping a meeting recording</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.25/EVY.dmg" length="32871118" type="application/octet-stream" sparkle:edSignature="PmpghMo1DNw5sWLmrv7sVLsJ8W1PaHv6iaX2PxspniEoDhCREeTFM+VbCTpMSaheG4JX1KuNqfhbPkRzcSgDDQ=="/>
+        </item>
+        <item>
             <title>2.0.24</title>
             <pubDate>Tue, 24 Feb 2026 11:03:48 +0000</pubDate>
             <sparkle:version>2.0.24</sparkle:version>
@@ -17,14 +34,6 @@
             <sparkle:shortVersionString>2.0.23</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.23/EVY.dmg" length="32857386" type="application/octet-stream" sparkle:edSignature="SR9m74s1XjFL3YCwes4fmT/pigq3bJeYQYjYszWObxjDbLhMW8HKgUbndBrpeDw7cNbJ1Xo4ZlIGgV+l17uYAw=="/>
-        </item>
-        <item>
-            <title>2.0.20</title>
-            <pubDate>Wed, 11 Feb 2026 21:37:18 +0000</pubDate>
-            <sparkle:version>2.0.20</sparkle:version>
-            <sparkle:shortVersionString>2.0.20</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.20/EVY.dmg" length="32849282" type="application/octet-stream" sparkle:edSignature="5ea8mdhQINGE7VAZmMFf8iem9xL3aJqyLsJOqjMV0Mvuodtxl1QNuG61btDQ8/Rorf+nsE9jQT5/2Wz4bO3TAw=="/>
         </item>
     </channel>
 </rss>
