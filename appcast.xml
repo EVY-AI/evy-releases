@@ -3,6 +3,19 @@
     <channel>
         <title>EVY</title>
         <item>
+            <title>2.0.28</title>
+            <pubDate>Sat, 07 Mar 2026 09:54:44 +0000</pubDate>
+            <sparkle:version>2.0.28</sparkle:version>
+            <sparkle:shortVersionString>2.0.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's New</h2>
+<ul>
+  <li><strong>Improved Microphone Selection</strong> - Enhanced the algorithm for selecting redundant recording input devices, resulting in more reliable audio capture across different hardware configurations</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.28/EVY.dmg" length="33108621" type="application/octet-stream" sparkle:edSignature="2Q5cCKxydg0tgVDicIpNFlVSBSU0wBsojfTtLbNxamu2C5fSZV9J0gEVsfe7Vv6OvV9n7XFgzqq18jocJlnICQ=="/>
+        </item>
+        <item>
             <title>2.0.27</title>
             <pubDate>Thu, 05 Mar 2026 14:00:38 +0000</pubDate>
             <sparkle:version>2.0.27</sparkle:version>
@@ -52,23 +65,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.26/EVY.dmg" length="32873197" type="application/octet-stream" sparkle:edSignature="ifnsfE6T95zfC/Wq7tad/6yMfhA1NZuE8AO41hNRIKp1eVF+tt+9PJGioL9UI3LKVew75IZzXlMVT/t9f/NQDA=="/>
-        </item>
-        <item>
-            <title>2.0.25</title>
-            <pubDate>Wed, 25 Feb 2026 15:49:59 +0000</pubDate>
-            <sparkle:version>2.0.25</sparkle:version>
-            <sparkle:shortVersionString>2.0.25</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's New</h2>
-<ul>
-  <li><strong>Hide from Dock</strong> - Restored the option to hide EVY from the macOS Dock, giving you control over your Dock visibility preferences</li>
-</ul>
-<h2>Bug Fixes</h2>
-<ul>
-  <li>Fixed an issue where the app could freeze when stopping a meeting recording</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.25/EVY.dmg" length="32871118" type="application/octet-stream" sparkle:edSignature="PmpghMo1DNw5sWLmrv7sVLsJ8W1PaHv6iaX2PxspniEoDhCREeTFM+VbCTpMSaheG4JX1KuNqfhbPkRzcSgDDQ=="/>
         </item>
     </channel>
 </rss>
