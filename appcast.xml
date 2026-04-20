@@ -3,6 +3,26 @@
     <channel>
         <title>EVY</title>
         <item>
+            <title>2.0.33</title>
+            <pubDate>Mon, 20 Apr 2026 11:36:26 +0100</pubDate>
+            <sparkle:version>2.0.33</sparkle:version>
+            <sparkle:shortVersionString>2.0.33</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's New</h2>
+<ul>
+  <li><strong>Improved AirPods and Bluetooth Audio Support</strong> - Enhanced audio input handling for AirPods and other Bluetooth devices, including better sample rate management and more reliable device switching</li>
+  <li><strong>Smarter Microphone Detection</strong> - The app now correctly filters out redundant microphones and no longer records iPhone or iPad as separate audio sources when connected</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+  <li>Fixed an issue where the meeting recording timer would start before the app was fully ready to record</li>
+  <li>Improved audio synchronization during meeting recordings for more reliable multi-track capture</li>
+  <li>Enhanced stability when switching between audio input devices during a session</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.33/EVY.dmg" length="23455511" type="application/octet-stream" sparkle:edSignature="W0bzzJ3k8Fx8bog3AME9oOF5OA1gvjUBK9f8PCy2IVLClJ2ehpFy2wvvH/gEywpQpufHZGe3pD/aXUIPMRdADg=="/>
+        </item>
+        <item>
             <title>2.0.30</title>
             <pubDate>Fri, 13 Mar 2026 11:41:14 +0000</pubDate>
             <sparkle:version>2.0.30</sparkle:version>
@@ -35,19 +55,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.29/EVY.dmg" length="33110289" type="application/octet-stream" sparkle:edSignature="55SQdp2KTvIZsA3ekl5dwuLNpIp6rwYMxPeeBOb/+Z2L2DUnjnEOTARC1zA0L8PLuLQiqRAsbzCG/s5BuxigBg=="/>
-        </item>
-        <item>
-            <title>2.0.28</title>
-            <pubDate>Sat, 07 Mar 2026 09:54:44 +0000</pubDate>
-            <sparkle:version>2.0.28</sparkle:version>
-            <sparkle:shortVersionString>2.0.28</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's New</h2>
-<ul>
-  <li><strong>Improved Microphone Selection</strong> - Enhanced the algorithm for selecting redundant recording input devices, resulting in more reliable audio capture across different hardware configurations</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.28/EVY.dmg" length="33108621" type="application/octet-stream" sparkle:edSignature="2Q5cCKxydg0tgVDicIpNFlVSBSU0wBsojfTtLbNxamu2C5fSZV9J0gEVsfe7Vv6OvV9n7XFgzqq18jocJlnICQ=="/>
         </item>
     </channel>
 </rss>
