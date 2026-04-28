@@ -3,6 +3,22 @@
     <channel>
         <title>EVY</title>
         <item>
+            <title>2.0.35</title>
+            <pubDate>Tue, 28 Apr 2026 10:26:24 +0100</pubDate>
+            <sparkle:version>2.0.35</sparkle:version>
+            <sparkle:shortVersionString>2.0.35</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Bug Fixes</h2>
+<ul>
+  <li>Improved overlay visibility and positioning when switching between fullscreen apps and different Spaces.</li>
+  <li>Fixed an issue that caused slow motion audio or connection failures when using AirPods.</li>
+  <li>Improved reliability of audio capture when the selected microphone is disconnected.</li>
+  <li>Improved stability of AirPods audio processing and network monitoring during disconnections.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.35/EVY.dmg" length="23457546" type="application/octet-stream" sparkle:edSignature="nfTR+wNbb0LF75eILihdu1jnKvCAJQ/EKrNcJotdFydQT+Q24yWwldtucY2naiBCrIkE/0iFXhbjW2uEPbB1BQ=="/>
+        </item>
+        <item>
             <title>2.0.34</title>
             <pubDate>Tue, 21 Apr 2026 16:04:59 +0100</pubDate>
             <sparkle:version>2.0.34</sparkle:version>
@@ -40,23 +56,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.33/EVY.dmg" length="23455511" type="application/octet-stream" sparkle:edSignature="W0bzzJ3k8Fx8bog3AME9oOF5OA1gvjUBK9f8PCy2IVLClJ2ehpFy2wvvH/gEywpQpufHZGe3pD/aXUIPMRdADg=="/>
-        </item>
-        <item>
-            <title>2.0.30</title>
-            <pubDate>Fri, 13 Mar 2026 11:41:14 +0000</pubDate>
-            <sparkle:version>2.0.30</sparkle:version>
-            <sparkle:shortVersionString>2.0.30</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Bug Fixes</h2>
-<ul>
-  <li>Improved onboarding interview flow with better wording and more accurate context generation</li>
-  <li>Fixed an issue where meeting recordings could be lost if the app was quit or crashed during recording</li>
-  <li>Fixed missing meeting recordings caused by a race condition</li>
-  <li>Improved reliability of the dictation process so that individual failures no longer interrupt the entire workflow</li>
-  <li>General improvements to retry logic for more stable recording uploads</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.30/EVY.dmg" length="33123157" type="application/octet-stream" sparkle:edSignature="HxzKEKrk29+RL0rUa6R23G3pqPmI9xdNURTCpVF/AgQAPhaVXrm6VrtI8+1rd80p1kfTxmciEwp3CFcJnz6CDA=="/>
         </item>
     </channel>
 </rss>
