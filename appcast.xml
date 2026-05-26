@@ -3,6 +3,19 @@
     <channel>
         <title>EVY</title>
         <item>
+            <title>2.0.38</title>
+            <pubDate>Tue, 26 May 2026 18:12:06 +0100</pubDate>
+            <sparkle:version>2.0.38</sparkle:version>
+            <sparkle:shortVersionString>2.0.38</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Bug Fixes</h2>
+<ul>
+  <li><strong>System Audio Error Recovery</strong> - Fixed a critical issue where the macOS app could freeze permanently on dictation start if the system audio daemon (<code>coreaudiod</code>) became unresponsive. The app now detects this condition and gracefully displays a "System Audio Error" message, allowing you to retry without needing to force-quit the application.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.38/EVY.dmg" length="22600538" type="application/octet-stream" sparkle:edSignature="Ovl0E4k+jnTc3T1Ti8RCD2QjdldhmtbxoLfKFS2h75ZdV285KC/vUH2ZotbazJHEyh6jzydGVvjGqzlhTQABBA=="/>
+        </item>
+        <item>
             <title>2.0.37</title>
             <pubDate>Fri, 22 May 2026 13:10:04 +0100</pubDate>
             <sparkle:version>2.0.37</sparkle:version>
@@ -37,22 +50,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.36/EVY.dmg" length="22577119" type="application/octet-stream" sparkle:edSignature="CFQU/uwr6i2LSBEci30kDhv41nRbtn6BOu7BUL3YwurlHmuPoqtDgroKt6S0i1Lhvni/Vrq8NCwVLP2oJAqeDQ=="/>
-        </item>
-        <item>
-            <title>2.0.35</title>
-            <pubDate>Tue, 28 Apr 2026 10:26:24 +0100</pubDate>
-            <sparkle:version>2.0.35</sparkle:version>
-            <sparkle:shortVersionString>2.0.35</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Bug Fixes</h2>
-<ul>
-  <li>Improved overlay visibility and positioning when switching between fullscreen apps and different Spaces.</li>
-  <li>Fixed an issue that caused slow motion audio or connection failures when using AirPods.</li>
-  <li>Improved reliability of audio capture when the selected microphone is disconnected.</li>
-  <li>Improved stability of AirPods audio processing and network monitoring during disconnections.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.35/EVY.dmg" length="23457546" type="application/octet-stream" sparkle:edSignature="nfTR+wNbb0LF75eILihdu1jnKvCAJQ/EKrNcJotdFydQT+Q24yWwldtucY2naiBCrIkE/0iFXhbjW2uEPbB1BQ=="/>
         </item>
     </channel>
 </rss>
