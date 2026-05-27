@@ -3,6 +3,19 @@
     <channel>
         <title>EVY</title>
         <item>
+            <title>2.0.39</title>
+            <pubDate>Wed, 27 May 2026 11:58:52 +0100</pubDate>
+            <sparkle:version>2.0.39</sparkle:version>
+            <sparkle:shortVersionString>2.0.39</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Bug Fixes</h2>
+<ul>
+  <li><strong>Audio Device Disconnection Reliability</strong> - Fixed a critical crash that occurred when physically unplugging or disconnecting an active USB microphone or audio interface (such as a RODECaster Pro) mid-capture during a meeting recording or dictation session. The app now handles device disconnection gracefully and transitions capture to the next-priority available audio device without crashing.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.39/EVY.dmg" length="22603111" type="application/octet-stream" sparkle:edSignature="Wx+lMN+ygekxgVPAaUVVdbMRn+rHIuRDXUeXUyLWTzhCjupR11f4qSSk9QtgRilWQr1nqvhilKttc9wRtFKqCQ=="/>
+        </item>
+        <item>
             <title>2.0.38</title>
             <pubDate>Tue, 26 May 2026 18:12:06 +0100</pubDate>
             <sparkle:version>2.0.38</sparkle:version>
@@ -31,25 +44,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.37/EVY.dmg" length="22586946" type="application/octet-stream" sparkle:edSignature="Hu98J+mWfT9Buhvhw87U0gJMZAJFLHm0+gEGn05esSZ0arR85gh6BafWBubp/1FMzs5rGqKPHgeWhJzrxtkDBQ=="/>
-        </item>
-        <item>
-            <title>2.0.36</title>
-            <pubDate>Sat, 16 May 2026 17:14:17 +0100</pubDate>
-            <sparkle:version>2.0.36</sparkle:version>
-            <sparkle:shortVersionString>2.0.36</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's New</h2>
-<ul>
-  <li><strong>Continuity Camera</strong> - Improved detection and filtering of Continuity Camera microphones.</li>
-  <li><strong>Repeat Dictation</strong> - You can now ask the speaking agent to repeat or paste your latest voice dictation.</li>
-</ul>
-<h2>Bug Fixes</h2>
-<ul>
-  <li>Fixed an issue where system and per-app audio could be silently dropped during meeting recordings.</li>
-  <li>Improved the stability of auxiliary panels to prevent display glitches during show and hide actions.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.36/EVY.dmg" length="22577119" type="application/octet-stream" sparkle:edSignature="CFQU/uwr6i2LSBEci30kDhv41nRbtn6BOu7BUL3YwurlHmuPoqtDgroKt6S0i1Lhvni/Vrq8NCwVLP2oJAqeDQ=="/>
         </item>
     </channel>
 </rss>
