@@ -3,6 +3,19 @@
     <channel>
         <title>EVY</title>
         <item>
+            <title>2.0.42</title>
+            <pubDate>Thu, 11 Jun 2026 20:25:32 +0100</pubDate>
+            <sparkle:version>2.0.42</sparkle:version>
+            <sparkle:shortVersionString>2.0.42</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Bug Fixes</h2>
+<ul>
+  <li>Fixed an issue where dictation could paste old clipboard content instead of the transcribed text when inserting into slower or Electron-based apps (like Claude Desktop) during focus transitions.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.42/EVY.dmg" length="22630849" type="application/octet-stream" sparkle:edSignature="EUAc5NWzbuNNsknp2G/4cOm0a/JDlZPW2J8/ggid9RyrkYZ/6tzTkXFG0Vp/IYFkbQE8e2XLuTMtxsHsJA9tAQ=="/>
+        </item>
+        <item>
             <title>2.0.41</title>
             <pubDate>Thu, 04 Jun 2026 18:05:59 +0100</pubDate>
             <sparkle:version>2.0.41</sparkle:version>
@@ -33,19 +46,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.40/EVY.dmg" length="22608002" type="application/octet-stream" sparkle:edSignature="mBh56F4HFy1P56/fhtkQf27f1LTQ5bYPj9QlMoAg4ocWo/ISk5HjRP1IZ/2B4prOlFoZ767f1fCq8cKIJihjAQ=="/>
-        </item>
-        <item>
-            <title>2.0.39</title>
-            <pubDate>Wed, 27 May 2026 11:58:52 +0100</pubDate>
-            <sparkle:version>2.0.39</sparkle:version>
-            <sparkle:shortVersionString>2.0.39</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Bug Fixes</h2>
-<ul>
-  <li><strong>Audio Device Disconnection Reliability</strong> - Fixed a critical crash that occurred when physically unplugging or disconnecting an active USB microphone or audio interface (such as a RODECaster Pro) mid-capture during a meeting recording or dictation session. The app now handles device disconnection gracefully and transitions capture to the next-priority available audio device without crashing.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/EVY-AI/evy-releases/releases/download/v2.0.39/EVY.dmg" length="22603111" type="application/octet-stream" sparkle:edSignature="Wx+lMN+ygekxgVPAaUVVdbMRn+rHIuRDXUeXUyLWTzhCjupR11f4qSSk9QtgRilWQr1nqvhilKttc9wRtFKqCQ=="/>
         </item>
     </channel>
 </rss>
